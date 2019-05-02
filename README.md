@@ -1,4 +1,4 @@
-# Ruby Advanced Class Methods Lab
+self# Ruby Advanced Class Methods Lab
 
 ## Objectives
 
